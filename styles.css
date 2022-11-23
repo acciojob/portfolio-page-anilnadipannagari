@@ -1,2 +1,14 @@
-
+#skills{
+    color: aqua;
+    background-color: bisque;
+    width: 400px;
+}
+#projects{
+    color: bisque;
+    background-color: blueviolet;
+    width: 400px;
+    border: 10px;
+    margin-top: .5%;
+    MAR
+}
 /* Your CSS Code here. */
